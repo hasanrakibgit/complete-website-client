@@ -1,0 +1,8 @@
+.bg-img{
+    background-image: url("../../../images/header.webp");
+   
+    height:500px;
+    position:relative;
+
+    background-size: cover;
+}
